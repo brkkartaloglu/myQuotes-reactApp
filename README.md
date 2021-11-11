@@ -12,7 +12,7 @@ I used:
  
  # Live 
  
- ⚡ 
+ ⚡ https://myquotesapp.netlify.app/
  
  
  # How to run simply:
