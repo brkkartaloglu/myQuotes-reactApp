@@ -1,4 +1,4 @@
-# MyQuotesApp : MyQuotesApp uses Quotable API to generate random quotes; it allows you sto elect your favorites, post them on Twitter, also you can print/export them as PDF. In the search t,ab you can also search for a tag to find related quotes.
+# MyQuotesApp : MyQuotesApp uses Quotable API to generate random quotes; it allows you to select your favorites, post them on Twitter, also you can print/export them as PDF. In the search tab you can also search for a tag to find related quotes.
 
 I prepared this app for React Dersleri youtube channel, React Dersleri provides high-quality education resources on React in Turkish.
 
@@ -16,7 +16,8 @@ I used:
  
  # Preview
  
-  ![QuotesApp](https://user-images.githubusercontent.com/75986477/14cloning49-2af90913-1ad6-4e77-8e21-dca97ad71fd4.gif)
+  ![QuotesApp](https://user-images.githubusercontent.com/75986477/141348513-bcloning81-0dab-4512-8949-4bfab82e456e.gif)
+
 
  # How to run simply:
  After clone the repo;
