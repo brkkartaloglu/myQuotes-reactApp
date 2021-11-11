@@ -25,7 +25,7 @@ export default function Quotes({ searchMode, tag, id }) {
 
   const randGen = () => {
     if (tag) {
-      dispatch(getQuotebySearch(tag, id));
+      dispatch(getQuotebySearch(tag.toLowerCase(), id));
     } else {
       dispatch(getQuote());
     }
