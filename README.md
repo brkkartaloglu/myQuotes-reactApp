@@ -1,4 +1,4 @@
-# MyQuotesApp : MyQuotesApp uses Quotable API to genereate random quotes; it allows you select your favorites, post them on Twitter, also you can print/export them as PDF. In the search tab you can also search for a tag to find related quotes.
+# MyQuotesApp : MyQuotesApp uses Quotable API to generate random quotes; it allows you to select your favorites, post them on Twitter, also you can print/export them as PDF. In the search tab you can also search for a tag to find related quotes.
 
 I prepared this app for React Dersleri youtube channel, React Dersleri provides high-quality education resources on React in Turkish.
 
@@ -14,9 +14,13 @@ I used:
  
  ⚡ https://myquotesapp.netlify.app/
  
+ # Preview
+ 
+ ![QuotesApp](https://user-images.githubusercontent.com/75986477/141348939-f77bf514-e22d-43d7-9b50-e809d55d0d6a.gif)
+
  
  # How to run simply:
- After clone the repo;
+ After cloning the repo;
 
  To install dependencies:
  ### `npm install` 
@@ -26,6 +30,6 @@ I used:
  Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
 
  # Deployment
- To create build folder:
+ To creaate a build folder:
  ### `npm run build`
  Then deploy the build folder, I preffered Netlify for above example.
