@@ -23,7 +23,7 @@ export default function Search() {
 
   const searchQuote = () => {
     if (search.trim() !== "") {
-      dispatch(getQuotebySearch(search));
+      dispatch(getQuotebySearch(search.toLowerCase()));
 
       setcountDisplay(true);
     }
